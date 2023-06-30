@@ -10,5 +10,6 @@
 <p>환영합니다 study 커뮤니티입니다.(index page)</p>
 <a href="/study/view/dashboard">대시보드 보러가기</a>
 <a href="/study/view/test">test page</a>
+<a href="/study/view/gong">요청결과</a>
 </body>
 </html>
